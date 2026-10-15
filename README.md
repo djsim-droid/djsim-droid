@@ -1,4 +1,8 @@
-## Hi there 👋
+## Aspiring Cybersecurity Professional | IT Student | Technology Enthusiast
+
+I'm an aspiring cybersecurity professional currently building my knowledge in information technology, networking, system administration, and cybersecurity.
+
+My background in plumbing project management has helped me develop strong problem-solving, organizational, and leadership skills. I'm now applying those skills as I work toward a career in cybersecurity, with a particular interest in ethical hacking and penetration testing.
 
 <!--
 **djsim-droid/djsim-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
